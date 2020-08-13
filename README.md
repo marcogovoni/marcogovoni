@@ -2,7 +2,7 @@
 ## Benvenuto sul mio profilo GitHub
 
 <p>
-  <img align="right" width="90" src="https://github.com/marcogovoni/marcogovoni/blob/master/nero-piccolo-200x300.png" >
+  <img align="right" width="110" src="https://github.com/marcogovoni/marcogovoni/blob/master/nero-piccolo-200x300.png" >
   Mi chiamo Marco, sono un libero professionista, lavoro nel campo dei servizi ICT per le aziende, con particolare focus sulla cyber security. La mia specialtà è connettere le aziende e le persone al mondo (digitale e non) con soluzioni avanzate, sicure e scalabili.
   
   E poi, mi diverto a sperimentare.
@@ -14,6 +14,11 @@ Perché tra i miei progetti (ne ho molti, forse troppi..) alcuni sono ideali per
 
 ## Dove trovarmi?
 **Il mio [sito web](https://marcogovoni.it) è la mia casa digitale**, dove puoi contattarmi velocemente, scroprire i progetti in corso e leggere quello che scrivo.
+
+<p align="left">
+ <a href="https://www.linkedin.com/in/govonimarco/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8" alt="LinkedIn">
+   </p>
 
 
 
