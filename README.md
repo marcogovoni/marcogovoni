@@ -19,9 +19,12 @@ Perché tra i miei progetti (ne ho molti, forse troppi..) alcuni sono ideali per
  <a href="https://www.linkedin.com/in/govonimarco/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8" alt="LinkedIn">
    </p>
-
-
-
+  
+## La mia Newsletter
+ Ogni settimana un aricolo che accompagna il podcast e... un modo per rimanere in contatto anche con le novità di Tracce Digitali.
+ 
+[<img src="https://img.shields.io/badge/iscriviti alla newsletter-clicca qui-blue">](http://blog.marcogovoni.it)
+ 
 <!--
 **marcogovoni/marcogovoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
